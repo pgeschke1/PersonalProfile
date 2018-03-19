@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Paul</string>
+    <string name="txt_caption">Picture of Smokey</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Paul has  a dog named Smokey and attends MCC. He will be graduating this semester and will be attending NIU next fall</string>
+</resources>
